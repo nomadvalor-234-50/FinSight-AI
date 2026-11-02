@@ -1,0 +1,7 @@
+description,amount,transaction_type,category,transaction_date
+Swiggy Food Order,350,expense,,2026-11-08
+Uber Ride Payment,220,expense,,2026-11-09
+Netflix Premium,649,expense,,2026-11-10
+Monthly Salary Credit,45000,income,,2026-11-11
+Amazon Shopping,1500,expense,,2026-11-12
+Apollo Pharmacy,400,expense,,2026-11-13

@@ -1,0 +1,6 @@
+description,amount,transaction_type,category,transaction_date
+Monthly Salary,30000,income,Salary,2026-11-01
+Zomato,450,expense,Food,2026-11-02
+Netflix,649,expense,Subscription,2026-11-03
+Freelance Work,5000,income,Freelance,2026-11-04
+Electricity Bill,1200,expense,Utilities,2026-11-05

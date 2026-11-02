@@ -1,0 +1,5 @@
+description,amount,transaction_type,category,transaction_date
+Netflix Premium,649,expense,Subscription,2026-09-10
+Netflix Premium,649,expense,Subscription,2026-10-10
+Electricity Bill,1200,expense,Utilities,2026-09-05
+Electricity Bill,1200,expense,Utilities,2026-10-05
